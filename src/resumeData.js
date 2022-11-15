@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-instagram"
         }
       ],
-    "aboutme":"I am graduate from Deakin University with Bachelor in Commerce(Accounting) degree. I am a self-taught Web Developer, currently diving deeper into Front-end Web Development. I believe that to be successful in life,one must have the ability to adopt, stay committed & develop postive mindset along the journey.",
+    "aboutme":"I am a graduate from Deakin University with Bachelor in Commerce(Accounting) degree. I am a self-taught Web Developer, currently diving deeper into Front-end Web Development. I believe that to be successful in life,one must have the ability to adopt, stay committed & develop postive mindset along the journey.",
     "address":"Medan, Indonesia",
     "website":"www.saripgutragunawan.com",
     "skillsDescription":"Your skills here",
