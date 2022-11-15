@@ -49,33 +49,33 @@ let resumeData = {
         "skillname":"Illustrator"
       },
       {
-        "skillname":"PremierePro"
+        "skillname":"Premiere Pro"
       }
     ],
     "portfolio":[
       {
         "name":"SmartBrain App",
-        "description":"A face detection app utilising API & PosgresQL to keep track of users & counts",
+        "description":"A face detection app built with React & Tachyons utilising ClariFaiAPI & PosgresQL to keep track of users & counts",
         "imgurl":"images/portfolio/smartbrain.jpg",
         "purl":"https://soft-fairy-3b902f.netlify.app/"
       },
       {
         "name":"Robofriends App",
-        "description":"A real-time search of Robot Friends app",
+        "description":"A real-time search of Robot Friends app built using React & Tachyons with data generated from Robohash.org",
         "imgurl":"images/portfolio/robofriends.jpg",
-        "purl":"https://soft-fairy-3b902f.netlify.app/"
+        "purl":"https://rzilla92.github.io/robofriends/"
       },
       {
         "name":"TRVL",
-        "description":"A Travel website for a mock company TRVL",  
+        "description":"A fully responsive website built with React Hooks for a mock company travel company, TRVL",  
         "imgurl":"images/portfolio/trvl.jpg",
-        "purl":"https://soft-fairy-3b902f.netlify.app/"
+        "purl":"https://rzilla92.github.io/travel-website-react/"
       },
       {
         "name":"Hoobank",
-        "description":"A single page website for Hoobank, a digital banking company",
+        "description":"A Modern Website buillt using React & Tailwind CSS for Hoobank, a digital banking company",
         "imgurl":"images/portfolio/hoobank.jpg",
-        "purl":"https://soft-fairy-3b902f.netlify.app/"
+        "purl":"https://rzilla92.github.io/bank-modern-ui/"
       }
     ],
     "testimonials":[

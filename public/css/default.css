@@ -726,6 +726,7 @@ properly.
       padding: 0;
 	}
    .column, .columns {
+      text-align: center;
 	   width: auto !important;
 	   float: none;
 	   margin-left: 0;
